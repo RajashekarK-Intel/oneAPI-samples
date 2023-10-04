@@ -1,4 +1,4 @@
-# `Optimize PyTorch* Models using Intel® Extension for PyTorch* (IPEX)` Sample
+# `Optimize PyTorch* Models using Intel® Extension for PyTorch*` Sample
 
 This notebook guides you through the process of extending your PyTorch* code with Intel® Extension for PyTorch* (IPEX) with optimizations to achieve performance boosts on Intel® hardware.
 
